@@ -1,94 +1,52 @@
-?# **Backlog del Producto**
+# **AVANCE SPRINT -3**
 
 #### *User Stories*
 
 # **Story Cards**
 
-# Iteracion 2
+# Iteracion 3
 
 
-> **Crear logica para registrar producto
-Como Desarollador quiero crear las clases 
-necesarias para poder realizar el registro de productos a nivel modelo
-**Estimado:** 4 puntos.  
-**Estado:** Finalizado.  
-**Encargado: Leonel Martos
+> **Desarrollo de boton de ingreso de producto, para que con el cÃ³digo ingresado respectivo pueda tomar ese valor y trabajar sobre el referenciÃ¡ndole su respectivo nombre, cÃ³digo y precio.
 
-> **Realizar el codigo de la vista con el boton de registro de productos
-Como Desarollador quiero desarrollar el codigo que dibuja la ventana inicial donde se registran productos
-**Estimado:** 4 puntos.  
-**Estado:** Pendiente.  
-**Observacion:** Se sigue en el sprint siguiente por problemas de conocimientos de nuevas tecnologias. 
-**Encargado: Julian Bernal
+**Como:** Desarrollador 
+**Quiero:** Crear una boton de ingreso de producto
+**Para:** Poder que al activarlo sea posible internamente almacenar el cÃ³digo de producto y trabajar sobre Ã©l.
 
-> **Presentar diseño de vista con boton de finalizar compro
-Como Desarollador quiero agregar al diseño actual un boton para finalizar 
-la compra para iniciar una nueva
-**Estimado:** 1 puntos.  
+**Estimado:** 2 puntos.  
 **Estado:** Finalizado.  
 **Encargado: David Dominguez
 
-Para la solucion de este item, se realizo el procedimiento detallado, en el anexo documento de word,
-con paso a paso desde la ID, y el grafico de velocidad adjunto del mismo
+> **Desarrollo de logica en el boton de ingresar producto, en donde dado el valor del codigo de producto se tomara su nombre y precio, en las variables de items de la compra.
 
-> **Agregar comportamiento para reiniciar compra
-Como Desarollador quiero modelar el comportamiento 
-de la finalizacion de compra a nivel modelo
-**Estimado:** 4 puntos.  
-**Estado:** Finalizado.  
-**Encargado: Eric Arnez.
-
-
-## Estimado para proxima iteracion
-
-**Modificar base de datos/modelo para que cada producto contenga un campo stock
-Como desarrollador quiero agregar un campo stock en los productos tanto en modelo como en base de datos
-**Estimado:** 3 puntos.  
-**Estado:** Pendiente.  
-**Encargado: Leonel Martos.
-
-
-**Desarrollo de boton de ingreso de producto, para que con el código ingresado respectivo pueda tomar ese valor y trabajar sobre el referenciándole su respectivo nombre, código y precio.
-**Como:** Desarrollador 
-**Quiero:** Crear una boton de ingreso de producto
-**Para:** Poder que al activarlo sea posible internamente almacenar el código de producto y trabajar sobre él.
-**Estimado:** 2 puntos. 
-**Estado:** Finalizado.
-**Encargado: David Dominguez.
-
-
-**Desarrollo de logica en el boton de ingresar producto, en donde dado el valor del codigo de producto se tomara su 
-nombre y precio, en las variables de items de la compra.
 **Como:** Desarrollador 
 **Quiero:** Generar logica operativa de la herramienta de ingresar producto
 **Para:** Almacenar nombre, codigo y valor del producto.
-**Estimado:** 2 puntos.  
-**Encargado: David Dominguez / Julian Bernal.
 
-**Realizar el codigo de la vista con el boton de registro de productos
-Como Desarollador quiero desarrollar el codigo que dibuja la ventana inicial donde se registran productos
-**Estimado:** 4 puntos.  
-**Estado:** Pendiente.   
-**Encargado: Julian Bernal 
+**Estimado:** 3 puntos.  
+**Estado:** Realizado.  
+**Observacion:**
+(Revisar documento "Entrega 3 Story 2" para visualizar desarrollo)
+(Grafico de velocidad adjunto en "Graficos de velocidad Entrega 3 Story 1")
+**Encargado: David Dominguez 
 
-**Desarrollo de Logica De la Persistencia de las Facturas
-**Como:** Desarrollador 
-**Quiero:** Generar la persistencia en la base de datos de las facturas
-**Para:** saber la recaudacion total. 
-**Estimado:** 4 puntos.  
-**Estado:** Finalizado.  
-**Encargado: Eric Arnez
+## Estimado para proxima iteracion
+
+**Generacion de clase "Usuario", esta clase de manera abstracta, de esta se generan dos sub clases que son: "Gerente" y "Cajero". Cada una de esas clases contendran aspectos como los son el 'Nombre', 'Numero de usuario', 'Pago'.
+**Estimado:** 3 puntos.  
+**Estado:** Pendiente.  
+**Encargado: David Dominguez.
+
+**En base a las restropectivas que se generan al mostrar el avance de cada Sprint semanal, se modificara el codigo de la caja registradora, segun lo que el usuario interesado desee ver operando.
 
 ## Retrospectiva del sprint
 
 # High
 
-> ** División de tareas en base a las capacidades de cada 
-integrante en las distintas partes del proyecto.
-> ** Se gano mas experiencia en asignacion de user points.
+> ** Con correciones optimas, se sabe que mostar y mas importate que es realmente imporntante mostrar en cada Sprint, al usuario interesado.
+> ** Se gano mas experiencia en la tarea de seleccion de velocidad de las User Stories.
 
 # Low
 
-> ** Falta adquirir conocimiento con respecto a las tecnologias referentes a la interfaz grafica
-> ** Errores de comunicacion y malentendimientos llevaron a una mala division del tiempo dado para realizar los stories correspondientes al sprint
-> ** Falta mejorar la forma de crear y administrar los stories para cada sprint
+> ** Errores en los mensajes, tropesaron  la realizacion de los stories correspondientes al sprint, se hacia la misma tarea, por parte de dos integrantes del mismo grupo.
+> ** Se hizo compleja la manera de enseÃ±ar el avance y lo solicitado en cada Sprint, porque se queria motrar todo a la vez y algunos programas no ejecutaron correctamente, por no tenerlos preparados con anticipacion.
