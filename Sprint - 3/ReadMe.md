@@ -28,6 +28,7 @@
 **Observacion:**
 (Revisar documento "Entrega 3 Story 2" para visualizar desarrollo)
 (Grafico de velocidad adjunto en "Graficos de velocidad Entrega 3 Story 1")
+
 **Encargado: David Dominguez 
 
 ## Estimado para proxima iteracion
