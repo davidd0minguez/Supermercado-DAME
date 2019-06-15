@@ -40,10 +40,12 @@
 
 # High
 
-> ** Con correciones optimas, se sabe que mostar y mas importate que es realmente imporntante mostrar en cada Sprint, al usuario interesado.
-> ** Mejora modelo de vista al usuario en comparacion a anteriores.
+** Con correciones optimas, se sabe que mostar y mas importate que es realmente imporntante mostrar en cada Sprint, al usuario interesado.
+
+** Mejora modelo de vista al usuario en comparacion a anteriores.
 
 # Low
 
-> ** Los modelos de vista trabajados en la intefaz son complejos de procesar, toman varias horas de trabajo.
-> ** Se hizo compleja la manera de enseñar el avance y lo solicitado en cada Sprint, porque se queria motrar todo a la vez y algunos programas no ejecutaron correctamente, por no tenerlos preparados con anticipacion.
+** Los modelos de vista trabajados en la intefaz son complejos de procesar, toman varias horas de trabajo.
+
+** Se hizo compleja la manera de enseñar el avance y lo solicitado en cada Sprint, porque se queria motrar todo a la vez y algunos programas no ejecutaron correctamente, por no tenerlos preparados con anticipacion.
