@@ -1,5 +1,8 @@
+# **AVANCE SPRINT -4**
+
+#### *Grafico de velocidad Sprint 4*
+
 ![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/graficoSprint4.PNG)
-![Grafico](https://user-images.githubusercontent.com/42979506/59323274-74030b00-8cb0-11e9-8bf4-bf6d714c9ae5.png) 
 
 # **AVANCE SPRINT -4**
 
