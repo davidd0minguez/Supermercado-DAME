@@ -23,6 +23,26 @@
 **Estado: Realizado.
 **Encargado: David Dominguez
 
+**Solucion:
+
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(1).PNG)
+
+
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(2).PNG)
+
+
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(3).PNG)
+
+
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(4).PNG)
+
+
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(5).PNG)
+
+
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(6).PNG)
+
+
 > **Se realiza una mejora considerable en el modelo operacional de la caja, tanto en el proceso con prodcutos como con el diseño al usuario.
 
 **Como** Desarrollador.
