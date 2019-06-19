@@ -61,7 +61,9 @@
 **Estado: Realizado.
 **Encargado: David Dominguez
 
+**Se desea mejorar el modelo de vista al usuario, usando botones de modelo .png, iconos y fondo con diseño, ademas otro gran cambio es el de agregar la vista de los productos**
 
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/nueva%20vista.PNG)
 
 
 ## Estimado para proxima iteracion
