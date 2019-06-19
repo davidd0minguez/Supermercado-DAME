@@ -25,20 +25,27 @@
 
 **Solucion:
 
+**1. Se digita el codigo de producto con el teclado, el codigo de producto registrado en la base de datos**
+
 ![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(1).PNG)
 
+**2. Se oprime la tecla visualizar, con esta se muesta el producto y su precio**
 
 ![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(2).PNG)
 
+**3. Se oprime la tecla ingresar, con esta se añade a la tirilla de compra el prodcuto visualizado anteriormente**
 
 ![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(3).PNG)
 
+**4. Una vez realizada la tarea de ingresar el prodcuto a la tirilla de compra, la seccion de digitar el codigo queda vacia y se pueden digitar mas productos a la transaccion**
 
 ![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(4).PNG)
 
+**5. Se realizan los pasos anteriores, en este caso para agregar otro producto diferente que es el aceite, se le oprime igual ingresar para añadir a la tirilla**
 
 ![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(5).PNG)
 
+**6. Al oprimir confirmar se da por entendido que la transaccion culmina y se da la sumatoria de los precios de los productos anteriores, dando asi en la seccion de la factura final "El valor de la compra es ---> "**
 
 ![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(6).PNG)
 
@@ -49,11 +56,12 @@
 **Quiero** Modelar de manera optima la vista al usuario de la caja .
 **Para** Hacer mas agradable a la vista y operar de manera optima.
 
-
 **Desarrollar vista de caja
 **Estimado: 6 puntos.
 **Estado: Realizado.
 **Encargado: David Dominguez
+
+
 
 
 ## Estimado para proxima iteracion
