@@ -2,7 +2,7 @@
 
 #### *Grafico de velocidad Sprint 5*
 
-![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/graficoSprint4.PNG)
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-5/graf5.PNG)
 
 # **AVANCE SPRINT -5**
 
@@ -27,7 +27,15 @@
 
 **Implementar una revista (catalogo de productos)**
 
-![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/Caja%20Sprint%204(1).PNG)
+
+
+
+
+
+
+
+
+
 ____________________________________________________________________________________________________________________________________
 
 > **Se implementa ventana principal en la que se selecciona si el operador manejara el aplicativo como vendedor o como administrador.
@@ -45,7 +53,7 @@ ________________________________________________________________________________
 
 **Ventana principal donde se selecciona el rol de vendedor o de adminstrador**
 
-![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/nueva%20vista.PNG)
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-5/Principal.PNG)
 ____________________________________________________________________________________________________________________________________
 
 > **Se implementa ventana para trabajar aplicativo en rol de administracion.
@@ -63,7 +71,7 @@ ________________________________________________________________________________
 
 **Ventana donde podra operar el administrador del negocio**
 
-![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-4/nueva%20vista.PNG)
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-5/admin.PNG)
 ____________________________________________________________________________________________________________________________________
 
 ## Estimado para proxima iteracion
