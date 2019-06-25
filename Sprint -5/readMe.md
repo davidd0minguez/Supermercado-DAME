@@ -27,15 +27,9 @@
 
 **Implementar una revista (catalogo de productos)**
 
-
-
-
-
-
-
-
-
-
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-5/r1.PNG)
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-5/r2.PNG)
+![Grafico](https://github.com/davidd0minguez/Supermercado-DAME/blob/master/Sprint%20-5/r3.PNG)
 ____________________________________________________________________________________________________________________________________
 
 > **Se implementa ventana principal en la que se selecciona si el operador manejara el aplicativo como vendedor o como administrador.
